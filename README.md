@@ -1,1 +1,1 @@
-# JobsKit
+# JobsKitCore
